@@ -17,3 +17,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jihun-shim&show_icons=true&locale=en" alt="jihun-shim" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jihun-shim&" alt="jihun-shim" /></p>
+
+## 🏫Project🏫
+
+### 1. 주가 예측 프로그램 만들기 1차 (2024.11.10 - 2024.12.11)
+
+- **인원** : 4명
+- **목적** : 주가 예측 프로그램을 만들어 구현하기
+- **스킬** : Python, MongoDB, Selenium
+- **담당 업무** : 셀레니움 및 api 를 이용한 주가 정보 수집, 뉴스 스크래핑 자동화
