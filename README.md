@@ -24,5 +24,19 @@
 
 - **인원** : 4명
 - **목적** : 주가 예측 프로그램을 만들어 구현하기
-- **스킬** : Python, MongoDB, Selenium
-- **담당 업무** : 셀레니움 및 api 를 이용한 주가 정보 수집, 뉴스 스크래핑 자동화
+- **스킬** : Python, MongoDB, Selenium, BeautifulSoup
+- **담당 업무** : 뷰티풀숩, 셀레니움 및 api 를 이용한 주가 정보 수집, 뉴스 스크래핑 자동화, 주가 지표공식 함수화
+- **담당 업무 url**
+- ### [한경 뉴스 스크래핑](https://github.com/jwyzfe/FirstProject/blob/main/devs_jihunshim/release/bs4_news_hankyung.py)
+- ### [네이버 댓글 스크래핑](https://github.com/jwyzfe/FirstProject/blob/main/devs_jihunshim/release/sel_naver_stock.py)
+- ### [주가 지표 공식 함수화](https://github.com/jwyzfe/FirstProject/blob/main/devs_jihunshim/api_test_class_INTERESTRATE_jihunshim.py)
+
+### 2. 최하위권에 있는 ETF 종목을 찾아 수익률 향상시키기 (2025.02.10 - 2024.02.24)
+
+- **인원** : 1명
+- **목적** : 최하위권의 ETF 포트폴리오 리벨런싱을 통한 수익률 향상
+- **스킬** : Python, Pandas
+- **담당 업무** : ETF 종목 수집 및 최하위권 ETF 추출, Monte Carlo 와 MVO를 사용하여 최적 포트폴리오 구성, 머신러닝 적용하여 최적포트폴리오 구성
+- **담당 업무 url**
+- ### [ETF 종목 수집 및 최적 포트폴리오 구성](https://github.com/jihun-shim/study_pandas/blob/main/project/01.project.ipynb)
+- ### [머신러닝 적용 하여 최적 포트폴리오 구성](https://github.com/jihun-shim/study_pandas/blob/main/project/02.project_machinlearning.ipynb)
