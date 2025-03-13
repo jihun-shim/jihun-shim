@@ -44,9 +44,9 @@
 ### 3. 주식 종목 (퀀텀 컴퓨팅)의 주가 예측하기 (2025.02.26 - 2024.03.12)
 
 - **인원** : 1명
-- **목적** : 주식 종목 (퀀텀 컴퓨팅)의 주가 예측하기
+- **목적** : 주식 종목 (퀀텀 컴퓨팅)의 주가 예측하여 매수/매도 전략 수립
 - **스킬** : Python, Pandas
-- **담당 업무** : 주식 종목 (퀀텀 컴퓨팅)의 주가 예측하여 매수/매도 전략 수립
+- **담당 업무** : 주가 예측을 위한 시뮬레이션 및 데이터 분석 인사이트 도출
 - **담당 업무 url**
 - ### [01.MonteCarlo 사용분석](https://github.com/jihun-shim/My_Project/blob/main/Pesonal_project/other_project/QUBT/01.QUBT.ipynb)
 - ### [02.머신러닝을 통한 데이터 분석](https://github.com/jihun-shim/My_Project/blob/main/Pesonal_project/other_project/QUBT/02.QUBT_Random%20Forest.ipynb)
