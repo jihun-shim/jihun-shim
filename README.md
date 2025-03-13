@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm jihun-shim this is my universe :)</h1>
 <h3 align="center">A passionate data Analyst & developer from South korea</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jihun-shim&label=Profile%20views&color=0e75b6&style=flat" alt="jihun-shim" /> </p>
-
-- 💬 Ask me about **python, pandas**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
