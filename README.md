@@ -40,3 +40,16 @@
 - **담당 업무 url**
 - ### [ETF 종목 수집 및 최적 포트폴리오 구성](https://github.com/jihun-shim/study_pandas/blob/main/project/01.project.ipynb)
 - ### [머신러닝 적용 하여 최적 포트폴리오 구성](https://github.com/jihun-shim/study_pandas/blob/main/project/02.project_machinlearning.ipynb)
+
+### 3. 주식 종목 (퀀텀 컴퓨팅)의 주가 예측하기 (2025.02.26 - 2024.03.12)
+
+- **인원** : 1명
+- **목적** : 주식 종목 (퀀텀 컴퓨팅)의 주가 예측하기
+- **스킬** : Python, Pandas
+- **담당 업무** : 주식 종목 (퀀텀 컴퓨팅)의 주가 예측하여 매수/매도 전략 수립
+- **담당 업무 url**
+- ### [01.MonteCarlo 사용분석](https://github.com/jihun-shim/My_Project/blob/main/Pesonal_project/other_project/QUBT/01.QUBT.ipynb)
+- ### [02.머신러닝을 통한 데이터 분석](https://github.com/jihun-shim/My_Project/blob/main/Pesonal_project/other_project/QUBT/02.QUBT_Random%20Forest.ipynb)
+- ### [03.딥러닝을 통한 데이터 분석](https://github.com/jihun-shim/My_Project/blob/main/Pesonal_project/other_project/QUBT/03.QUBT_LSTM.ipynb)
+- ### [04.통계적 모델을 통한 데이터 분석](https://github.com/jihun-shim/My_Project/blob/main/Pesonal_project/other_project/QUBT/04.QUBT_Prophet.ipynb)
+- ### [05.최종결과 및 결론](https://github.com/jihun-shim/My_Project/blob/main/Pesonal_project/other_project/QUBT/05.QUBT_Result.ipynb)
